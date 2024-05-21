@@ -1,0 +1,11 @@
+C:\Users\30203\OneDrive\Desktop\D11016227\D11016227\obj\Debug\D11016227.csprojResolveAssemblyReference.cache
+D:\D11016227\D11016227\bin\Debug\D11016227.exe.config
+D:\D11016227\D11016227\bin\Debug\D11016227.exe
+D:\D11016227\D11016227\bin\Debug\D11016227.pdb
+D:\D11016227\D11016227\obj\Debug\D11016227.csprojResolveAssemblyReference.cache
+D:\D11016227\D11016227\obj\Debug\D11016227.Form1.resources
+D:\D11016227\D11016227\obj\Debug\D11016227.Properties.Resources.resources
+D:\D11016227\D11016227\obj\Debug\D11016227.csproj.GenerateResource.Cache
+D:\D11016227\D11016227\obj\Debug\D11016227.exe
+D:\D11016227\D11016227\obj\Debug\D11016227.pdb
+D:\D11016227\D11016227\obj\Debug\D11016227.Login.resources
