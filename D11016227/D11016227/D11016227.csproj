@@ -51,6 +51,12 @@
     <Compile Include="a1.Designer.cs">
       <DependentUpon>a1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Apply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apply.Designer.cs">
+      <DependentUpon>Apply.cs</DependentUpon>
+    </Compile>
     <Compile Include="index.cs">
       <SubType>Form</SubType>
     </Compile>

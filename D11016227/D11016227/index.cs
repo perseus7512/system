@@ -36,5 +36,11 @@ namespace D11016227
                 log.Show();
             }
         }
+
+        private void toolStripButton4_Click(object sender, EventArgs e)
+        {
+            Apply app = new Apply();
+            app.Show();
+        }
     }
 }

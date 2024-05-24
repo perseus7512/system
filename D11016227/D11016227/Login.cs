@@ -45,6 +45,7 @@ namespace D11016227
                 else
                 {
                     MessageBox.Show("登入失敗!");
+                    textBox2.Text = "";
                 }
             }
             else
